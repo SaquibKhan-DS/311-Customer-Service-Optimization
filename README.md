@@ -21,12 +21,6 @@ NYC's 311 customer service system handles millions of requests annually, but fac
 - **Tools**: Python, Pandas, Matplotlib, Seaborn, Plotly, Scipy
 - **Key Techniques**: Kruskal-Wallis testing, Chi-square analysis, Cost-benefit modeling
 
-## 📈 Visualizations
-![Executive Dashboard](visualizations/executive_dashboard.png)
-![Response Time Analysis](visualizations/response_time_analysis.png)
-![Department Performance](visualizations/department_performance.png)
-![Business Impact](visualizations/business_impact_analysis.png)
-
 ## 🎯 Strategic Recommendations
 
 ### 1. Peak Hour Staffing Optimization (HIGH PRIORITY)
